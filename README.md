@@ -7,6 +7,8 @@ This repository was used in our paper:
 <br>
 Chen Lou<sup>\*</sup>, Bin Liang<sup>\*</sup>, Lin Gui, Yulan He, Yixue Dang, Ruifeng Xu. *Proceedings of SIGIR 2021*
 
+<sup>\*</sup> The first two authors contribute equally to this work.
+
 Please cite our paper and kindly give a star for this repository if you use this code.
 
 ## Requirements
