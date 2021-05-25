@@ -28,10 +28,6 @@ and
 ```bash
 python3 -m spacy download en
 ```
-* install requirements
-```bash
-pip3 install -r requirements.txt
-```
 
 ## Training
 * Train with command, optional arguments could be found in [train.py](/train.py)
