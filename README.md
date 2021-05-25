@@ -5,7 +5,7 @@ This repository was used in our paper:
 
 **Affective Dependency Graph for Sarcasm Detection**
 <br>
-Bin Liang, Yonghao Fu, Lin Gui<sup>\*</sup>, Min Yang, Jiachen Du, Yulan He, Ruifeng Xu<sup>\*</sup>. *Proceedings of WWW 2021*
+Chen Lou<sup>\*</sup>, Bin Liang<sup>\*</sup>, Lin Gui, Yulan He, Yixue Dang, Ruifeng Xu. *Proceedings of SIGIR 2021*
 
 Please cite our paper and kindly give a star for this repository if you use this code.
 
