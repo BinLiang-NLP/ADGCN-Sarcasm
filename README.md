@@ -35,12 +35,6 @@ python3 -m spacy download en
 * Train with command, optional arguments could be found in [train.py](/train.py)
 ```bash
 python3 train.py 
-  --model_name senticgcn 
-  --dataset rest16 
-  --save True 
-  --learning_rate 1e-3 
-  --batch_size 16 
-  --hidden_dim 300
 ```
 
 
